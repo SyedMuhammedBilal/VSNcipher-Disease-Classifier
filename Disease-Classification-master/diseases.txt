@@ -1,0 +1,35 @@
+Diabetes
+
+increased_thirst frequent_urination extreme_hunger unexplained_weight_loss fatigue irritability blurred_vision slow_healing_sores
+
+
+FLU
+
+body_pain chills cough fever headache sore_throat
+
+MIGRAINE
+
+intense_headache nausea vomiting sweating poor_concentration abdominal_pain diarrhoea feeling_very_hot_or_very_cold increased_sensitivity_to_light_and_sound
+
+
+STROKE
+
+face_drooping arm_weakness speech_difficulty weakness confusion severe_headache blurred_vision heaviness_over_chest_radiating_to_limbs
+
+
+MALARIA
+
+Abdomenal_pain
+chills, fatigue, fever, night sweats, shivering, or sweating
+diarrhoea, nausea, or vomiting
+fast heart rate, headache, mental confusion,  pallor
+
+
+TUBERCULOSIS
+
+chest_pain_while_breathing cough fatigue fever loss_of_appetite malaise night_sweats sweating loss_of_muscle phlegm severe_unintentional_weight_loss shortness_of_breath swollen_lymph_nodes
+
+
+DENGUE
+
+abdominal_pain back_pain eye_pain joint_pain muscle_pain chills fatigue fever loss_of_appetite nausea vomiting skin_rashes easy_bruising headache
